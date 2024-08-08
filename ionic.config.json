@@ -1,0 +1,7 @@
+{
+  "name": "indexeddb-crash-repro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
